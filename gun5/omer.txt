@@ -1,1 +1,0 @@
-["ahmet","mermet","ali","veli","\u00f6mer","ozan"]
